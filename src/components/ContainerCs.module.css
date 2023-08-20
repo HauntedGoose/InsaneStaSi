@@ -1,0 +1,134 @@
+.inputoutlined,
+.inputoutlined1,
+.inputoutlined2,
+.inputoutlined3,
+.inputoutlined4 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 135px;
+  left: 133.5px;
+}
+.inputoutlined1,
+.inputoutlined2,
+.inputoutlined3,
+.inputoutlined4 {
+  left: 44.5px;
+}
+.inputoutlined2,
+.inputoutlined3,
+.inputoutlined4 {
+  top: 203px;
+  left: 133.5px;
+}
+.inputoutlined3,
+.inputoutlined4 {
+  left: 44.5px;
+}
+.inputoutlined4 {
+  top: 271px;
+  left: 133.5px;
+}
+.inputoutlined5 {
+  position: absolute;
+  top: 271px;
+  left: 44.5px;
+}
+.inputoutlined5,
+.inputoutlined6 {
+  border: 0;
+  background-color: transparent;
+}
+.inputoutlinedGroup {
+  position: absolute;
+  top: 67px;
+  left: 44.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.holidaysIcon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.holidaysParent,
+.inputoutlinedContainer,
+.selectoutlinedWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.holidaysParent,
+.inputoutlinedContainer {
+  align-items: center;
+}
+.holidaysParent {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  gap: 11px;
+}
+.inputoutlinedContainer {
+  gap: 10px;
+}
+.frameWrapper,
+.selectoutlinedParent {
+  position: absolute;
+  top: 59px;
+  left: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selectoutlinedParent {
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  gap: 25px;
+}
+.frameParent {
+  position: absolute;
+  top: 358px;
+  left: 38px;
+  width: 305px;
+  height: 117px;
+}
+.frameContainer,
+.selectoutlinedGroup {
+  position: absolute;
+  top: 63px;
+  left: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selectoutlinedGroup {
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  gap: 27px;
+}
+.frameGroup {
+  position: absolute;
+  top: 504px;
+  left: 37px;
+  width: 307px;
+  height: 121px;
+}
+.inputoutlinedParent {
+  position: absolute;
+  top: 225px;
+  left: 152px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 356px;
+  height: 646px;
+}

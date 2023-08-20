@@ -1,0 +1,235 @@
+.vectorIcon {
+  position: relative;
+  width: 14.4px;
+  height: 21px;
+}
+.prems {
+  position: relative;
+  line-height: 22px;
+}
+.premsWrapper {
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1px solid #b9b9b9;
+  box-sizing: border-box;
+  width: 91px;
+  display: flex;
+  flex-direction: row;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: center;
+}
+.fgzwwkgRemovebgPreview2Icon {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.fgzwwkgRemovebgPreview2Parent {
+  width: 74px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.ys7v8ij1Icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.ys7v8ij1Parent {
+  width: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.mq9dtsp2Icon {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.mq9dtsp2Parent {
+  width: 72px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.s6wbkki1Icon {
+  position: relative;
+  width: 23px;
+  height: 21.61px;
+  object-fit: cover;
+}
+.s6wbkki1Parent {
+  width: 73px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.zjkvigb2Icon {
+  position: relative;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.jjqmaqa2Parent,
+.zjkvigb2Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.zjkvigb2Parent {
+  width: 73px;
+  height: 42px;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.jjqmaqa2Parent {
+  width: 72px;
+  justify-content: space-between;
+}
+.cl5ud611Icon {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.cl5ud611Parent,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cl5ud611Parent {
+  width: 72px;
+  height: 42px;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.frameParent {
+  width: 178px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.mzmwwurRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.frameChild {
+  cursor: pointer;
+  position: absolute;
+  top: 4px;
+  left: 29px;
+  border-radius: 21px;
+  background-color: #fff;
+  border: 1px solid #5d5d5d;
+  box-sizing: border-box;
+  width: 20px;
+  height: 18px;
+}
+.mzmwwurRemovebgPreview1Parent {
+  position: relative;
+  width: 49px;
+  height: 25px;
+}
+.yellowBalloon {
+  position: relative;
+  font-weight: 500;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.frameItem {
+  cursor: pointer;
+  position: absolute;
+  top: 3px;
+  left: 27px;
+  border-radius: 21px;
+  background-color: #fff;
+  border: 1px solid #5d5d5d;
+  box-sizing: border-box;
+  width: 20px;
+  height: 18px;
+}
+.ubeqouyRemovebgPreview1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: relative;
+  width: 47px;
+  height: 22px;
+}
+.frameDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+}
+.rectangleInput {
+  cursor: pointer;
+  position: absolute;
+  top: 4px;
+  left: 27px;
+  border-radius: 21px;
+  background-color: #fff;
+  border: 1px solid #5d5d5d;
+  box-sizing: border-box;
+  width: 20px;
+  height: 18px;
+}
+.frameGroup,
+.vectorParent {
+  width: 83px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 17px;
+  font-size: 9px;
+  color: #000;
+  font-family: Inter;
+}
+.vectorParent {
+  position: absolute;
+  top: 607px;
+  left: 1026px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 291px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px 11px;
+  box-sizing: border-box;
+  align-items: center;
+  gap: 8px;
+  text-align: left;
+  font-size: 18px;
+  color: #666;
+  font-family: Roboto;
+}

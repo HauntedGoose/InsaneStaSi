@@ -1,0 +1,45 @@
+.inputoutlined {
+  border: 0;
+  background-color: transparent;
+}
+.frameGroup,
+.inputoutlinedParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.inputoutlinedParent {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 8px;
+}
+.frameGroup {
+  position: absolute;
+  top: 60px;
+  left: 65.5px;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.workspaceIcon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.workspaceParent {
+  position: absolute;
+  top: 4px;
+  left: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frameParent {
+  position: absolute;
+  top: 607px;
+  left: 530px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 256px;
+  height: 473px;
+}

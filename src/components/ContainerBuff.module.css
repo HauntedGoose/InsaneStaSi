@@ -1,0 +1,54 @@
+.vectorIcon {
+  position: relative;
+  width: 13.38px;
+  height: 26.38px;
+}
+.buff {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #666;
+  text-align: left;
+}
+.buffWrapper,
+.vectorParent {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buffWrapper {
+  border-radius: 4px;
+  border: 1px solid #b9b9b9;
+  overflow: hidden;
+  padding: 15px;
+  justify-content: center;
+}
+.vectorParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.checkboxdefaultCheckboxAnd {
+  align-self: stretch;
+  flex: 1;
+}
+.frameParent {
+  position: absolute;
+  top: 882px;
+  left: 346px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 162px;
+  height: 197px;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3px;
+}

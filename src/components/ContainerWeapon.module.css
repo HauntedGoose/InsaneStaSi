@@ -1,0 +1,102 @@
+.inputoutlined,
+.inputoutlined1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.inputoutlined1 {
+  left: 87px;
+}
+.inputoutlinedParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 164px;
+  height: 58px;
+}
+.checkboxdefaultCheckboxAnd,
+.frameGroup {
+  position: absolute;
+  top: 26px;
+  left: 171px;
+}
+.frameGroup {
+  top: 289px;
+  left: 55px;
+  width: 302px;
+  height: 68px;
+}
+.checkboxdefaultCheckboxAnd1 {
+  position: absolute;
+  top: 23px;
+  left: 171px;
+}
+.inputoutlinedGroup {
+  position: absolute;
+  top: 68px;
+  left: 55px;
+  width: 323px;
+  height: 65px;
+}
+.inputoutlined4 {
+  border: 0;
+  background-color: transparent;
+}
+.inputoutlinedContainer {
+  position: absolute;
+  top: 145px;
+  left: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameContainer,
+.selectoutlinedParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.frameContainer {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  align-items: center;
+  gap: 4px;
+}
+.frameIcon1 {
+  position: relative;
+  width: 24px;
+  height: 25px;
+}
+.frameDiv {
+  position: absolute;
+  top: 229px;
+  left: 13px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.frameParent {
+  position: absolute;
+  top: 225px;
+  left: 911px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 405px;
+  height: 366px;
+}

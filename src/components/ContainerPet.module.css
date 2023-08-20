@@ -1,0 +1,140 @@
+.inputoutlined,
+.inputoutlined1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.inputoutlined1 {
+  left: 82px;
+}
+.inputoutlinedParent {
+  position: absolute;
+  top: 50px;
+  left: 41.11px;
+  width: 170px;
+  height: 58px;
+}
+.groupIcon {
+  position: relative;
+  width: 24.22px;
+  height: 21.01px;
+}
+.buffPetBeads {
+  position: relative;
+  line-height: 22px;
+}
+.buffPetBeadsWrapper,
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buffPetBeadsWrapper {
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1px solid #b9b9b9;
+  box-sizing: border-box;
+  width: 166px;
+  padding: 15px;
+  justify-content: center;
+}
+.groupParent {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameGroup {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 205.11px;
+  height: 104px;
+}
+.buffPetWrapper {
+  position: absolute;
+  top: 0;
+  left: 27.5px;
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1px solid #b9b9b9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  align-items: center;
+  justify-content: center;
+}
+.frame,
+.frameContainer,
+.inputoutlinedGroup {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  width: 170px;
+  height: 58px;
+}
+.frame,
+.frameContainer {
+  top: 4px;
+  left: 38.11px;
+  height: 101px;
+}
+.frame {
+  top: 136px;
+  left: 3px;
+  width: 202px;
+  height: 124px;
+  overflow: hidden;
+}
+.inputoutlined4 {
+  border: 0;
+  background-color: transparent;
+}
+.inputoutlinedContainer,
+.selectoutlinedParent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.inputoutlinedContainer {
+  width: 159px;
+  height: 58px;
+  flex-direction: row;
+  gap: 5px;
+  margin-top: -3px;
+}
+.selectoutlinedParent {
+  position: absolute;
+  top: 4px;
+  left: 38.11px;
+  width: 184px;
+  flex-direction: column;
+  padding: 0 18px 0 0;
+  box-sizing: border-box;
+}
+.frame1,
+.frameParent {
+  position: absolute;
+  width: 216px;
+}
+.frame1 {
+  top: 283px;
+  left: 0;
+  height: 128px;
+  overflow: hidden;
+}
+.frameParent {
+  top: 607px;
+  left: 798px;
+  border-radius: 5px;
+  background-color: #fff;
+  height: 421px;
+  text-align: left;
+  font-size: 18px;
+  color: #666;
+  font-family: Roboto;
+}
